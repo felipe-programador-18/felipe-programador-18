@@ -1,6 +1,7 @@
-Olá!! Tudo bem? Eu Sou Felipe Martins, Tenho 26 anos sou natural de porto alegre, atualmente sou desenvoledor Fullstack-developer. Desenvolvo tanto a parte front-end das minhas aplicações como o parte back-end também, busco minha primeira oportunidade como desenvolvedor.
-Sou intermediário no inglês, estudo e faço curso para me tornar fluênte.
-Atualmente curso análise e desenvolvimento de sistemas, onde estou no 4semestre.
+Hi there!! I'm Felipe i have 26 year old, where living from brazil, currently of city of Porto alegre. I'm developer software full stack, currently my first how looking opportunity how developer of software. 
+Also am study about english, me consider intermediate, but always search improve more and more my english.
+Currently make college of analyse of system, where am in 4 semester.
+I have goals becoming a developer of very successful.
 
 
 
