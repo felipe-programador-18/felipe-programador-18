@@ -1,4 +1,4 @@
-Hi there!! I'm Felipe i have 26 year old, where living from brazil, currently living of city of Porto alegre. I'm developer software full stack, currently my first how looking opportunity how developer of software. 
+Hi there!! I'm Felipe i have 26 year old, where living from brazil, currently living of city of Porto alegre. I'm developer software full stack, currently looking my first opportunity how developer of software.
 Also am study about english, me consider intermediate, but always search improve more and more my english.
 Currently make college of analyse of system, where am in 4 semester.
 I have goals becoming a developer of very successful.
