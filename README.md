@@ -5,7 +5,7 @@ Atualmente curso análise e desenvolvimento de sistemas, onde estou no 4semestre
 
 
 <br><br>
-<h1>Linguagens de trabalho e estudo.</h1>
+<h1>Skills and knowledge.</h1>
 <div display=inline-block>
 <img align=center width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align=center width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
