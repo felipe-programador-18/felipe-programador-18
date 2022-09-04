@@ -1,6 +1,5 @@
-Hi there!! 👨‍💻🤙 I'm Felipe i am 27 year old, where living from brazil, currently living of city of Porto alegre.
-Also I am study about english, I considered myself intermediate, but always search improve more and more my english.
-Currently make college of analyse of system, where am in 4 semester.
+Hi there!! 👨‍💻🤙 I'm Felipe I am 27 years old, currently I living in brazil.
+Currently,I work with ( React, node, javascript, typescript and redux e mongodb, express.js and firabase and mysql.) I have passionate with i do.And have dreams for change country.
 
 
 
