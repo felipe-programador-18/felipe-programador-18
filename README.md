@@ -1,6 +1,4 @@
-Hi there!! 👨‍💻🤙 I'm Felipe I am 27 years old, currently I living in brazil.
-Currently,I work with (React, node, javascript, typescript and redux e mongodb, express.js and firabase and mysql.)  
-
+Hi there!! 👨‍💻🤙 I'm Felipe, currently I living in brazil.
 
 <br><br>
 <h1>Skills and knowledge.</h1>
