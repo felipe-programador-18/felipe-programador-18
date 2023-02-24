@@ -1,4 +1,4 @@
-Hi there!! 👨‍💻🤙 I'm Felipe, currently I living in brazil.
+Hi there!! 👨‍💻🤙 My name is Felipe I'm FullStack developer.
 
 <br><br>
 <h1>Skills and knowledge.</h1>
