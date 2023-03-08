@@ -1,4 +1,4 @@
-Hi there!! 👨‍💻🤙 My name is Felipe I'm FullStack developer.
+Hi there!! 👨‍💻🤙 My name is Felipe, I'm a full-stack developer, with two years of experience. I considered myself an extremely easy-going person and also ambitious to give my best and learn more every single day more and more.
 
 <br><br>
 <h1>Skills and knowledge.</h1>
